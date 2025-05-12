@@ -1,0 +1,15 @@
+# UE5 folders to ignore
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# OS system files
+.DS_Store
+Thumbs.db
